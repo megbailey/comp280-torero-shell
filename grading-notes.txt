@@ -1,0 +1,16 @@
+Authors:
+     8	Jake Wahl
+     7	Megan Bailey
+
+The following requirements were not met:
+- Correctly run foreground commands using the fork and execvp system calls.
+- Have no functions whose body is greater than 25 lines of code (excluding
+  comments and blank lines).
+- Have well commented source code.
+
+Grading Notes:
+- All processes are background processes (nothing runs in the foreground)
+- All other basic and advanced features work correctly.
+- Your execute function is too long: the !num and cd cases should have their
+  work done in separate functions.
+- Missing header comments for history_queue functions.
